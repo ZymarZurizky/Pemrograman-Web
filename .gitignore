@@ -1,0 +1,4 @@
+UAS/perpustakaan/db/data/
+*.pid
+*.sock
+*.log
